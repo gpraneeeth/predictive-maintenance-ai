@@ -23,4 +23,4 @@ In modern smart manufacturing, unplanned machine downtime costs millions. This p
 ## 🚀 How to Run the Code
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gpraneeeth/predictive-maintenance-ai/edit/main/README.md
+   git clone [https://github.com/gpraneeeth/predictive-maintenance-ai/edit/main/README.md](https://github.com/gpraneeeth/predictive-maintenance-ai)
